@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+p{
+    font-size: 20px;
+    color: white;
+    text-transform: capitalize;
+    padding: 5px;
+}
+.navbar{
+    background-color:#530634 ;
+    color: white;
+}
+.quem-sou-eu{
+    margin-top: 20px;
+    background-color: #045266;
+}
+h3{
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #f0f6f2;
+}
+.margin{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#meus-conhecimentos{
+    background-color: #87069b;
+}
+.github{
+    background-color: #11e65c;
+}
+#parceiros{
+    background-color: #a2e3d6;
+}
+#parceiros p{
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #000;
+   
+}
+#parceiros h3{
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #000;
+   
+}
+#rodape{
+    background-color: #bfa6f5;
+    color: #000;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-size: 20px;
+
+}
+#rodape a{
+    text-decoration:none ;
+    text-transform: capitalize;
+}
